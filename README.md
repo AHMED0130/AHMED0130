@@ -33,14 +33,6 @@ Deployed containerized microservices with Kubernetes, managed via Helm charts fo
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AHMED0130&show_icons=true&theme=radical" alt="Ahmed's GitHub stats"/>
-</p>
-
----
-
 ## ✉️ Contact Me
 
 - 📧 **Email:** ahmedelshnawy000@gmail.com  
